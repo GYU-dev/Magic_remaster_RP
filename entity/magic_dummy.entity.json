@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+      "description": {
+        "identifier": "magic_remaster:magic_dummy",
+        "min_engine_version": "1.8.0",
+        "materials": {
+          "default": "entity_beam_additive"
+        },
+        "textures": {
+          "default": "textures/magic/dummy"
+        },
+        "geometry": {
+          "default": "geometry.magic_dummy"
+        },
+        "render_controllers": [ "controller.render.alldefault" ],
+        "enable_attachables": true
+      }
+    }
+  }

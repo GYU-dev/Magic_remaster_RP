@@ -1,0 +1,75 @@
+{
+	"texture_data": {
+        "magic_book_basic": {
+            "textures": "textures/magic/magic_book_basic"
+        },
+        "magic_book_advanced": {
+            "textures": "textures/magic/magic_book_advanced"
+        },
+        "magic_book_fire": {
+            "textures": "textures/magic/magic_book_fire"
+        },
+        "magic_book_ice": {
+            "textures": "textures/magic/magic_book_ice"
+        },
+        "magic_book_wind": {
+            "textures": "textures/magic/magic_book_wind"
+        },
+        "magic_book_rock": {
+            "textures": "textures/magic/magic_book_rock"
+        },
+        "magic_book_spark": {
+            "textures": "textures/magic/magic_book_spark"
+        },
+        "magic_book_water": {
+            "textures": "textures/magic/magic_book_water"
+        },
+        "magic_book_light": {
+            "textures": "textures/magic/magic_book_light"
+        },
+        "magic_book_dark": {
+            "textures": "textures/magic/magic_book_dark"
+        },
+        "magic_book_heal": {
+            "textures": "textures/magic/magic_book_heal"
+        },
+        "magic_book_gravity": {
+            "textures": "textures/magic/magic_book_gravity"
+        },
+        "magic_book_sound": {
+            "textures": "textures/magic/magic_book_sound"
+        },
+        "magic_book_summon": {
+            "textures": "textures/magic/magic_book_summon"
+        },
+        "magic_book_dimension": {
+            "textures": "textures/magic/magic_book_dimension"
+        },
+        "magic_book_top": {
+            "textures": "textures/magic/magic_book_top"
+        },
+        "mana_potion_i": {
+            "textures": "textures/magic/mana_potion_i"
+        },
+        "mana_potion_ii": {
+            "textures": "textures/magic/mana_potion_ii"
+        },
+        "mana_potion_iii": {
+            "textures": "textures/magic/mana_potion_iii"
+        },
+        "magic_save_book":{
+            "textures": "textures/magic/magic_save_book"
+        },
+        "copper_nugget":{
+            "textures": "textures/magic/copper_nugget"
+        },
+        "magic_wand_basic": {
+            "textures": "textures/magic/fang_rod"
+        },
+        "magic_crystal": {
+            "textures": "textures/magic/magic_crystal"
+        }
+	},
+	"resource_pack_name": "magic_remaster_resource",
+	"texture_name": "atlas.items"
+}

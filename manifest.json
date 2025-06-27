@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Magic_remaster_resource",
+		"description": "Re:MASTER Resource",
+		"version": [1, 0, 0],
+		"uuid": "1f6ae12e-629d-4e5a-bd92-9e9fca393ce2",
+		"min_engine_version": [1, 21, 90]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"description": "resource_module",
+			"version": [1, 0, 0],
+			"uuid": "c849b348-a473-49ac-a691-7682c8ed51aa"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+      "description": {
+        "identifier": "magic_remaster:magic_circle_large",
+        "min_engine_version": "1.8.0",
+        "materials": {
+          "default": "entity_beam_additive"
+        },
+        "textures": {
+          "default": "textures/magic/circlev3"
+        },
+        "geometry": {
+          "default": "geometry.magic_circle_largev3"
+        },
+        "render_controllers": [ "controller.render.magic_circle" ],
+        "enable_attachables": true
+      }
+    }
+  }

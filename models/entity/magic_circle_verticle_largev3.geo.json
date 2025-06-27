@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.magic_circle_verticle_largev3",
+				"texture_width": 428,
+				"texture_height": 428,
+				"visible_bounds_width": 8,
+				"visible_bounds_height": 8,
+				"visible_bounds_offset": [0, 3, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [48, 0, 0],
+							"size": [0, 96, 96],
+							"pivot": [48, 0, 0],
+							"rotation": [0, -90, 0],
+							"uv": {
+								"east": {"uv": [0, 0], "uv_size": [428, 428]},
+								"west": {"uv": [0, 0], "uv_size": [428, 428]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

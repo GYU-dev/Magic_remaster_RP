@@ -1,0 +1,47 @@
+item.magic_remaster:magic_book_basic=Basic magic book
+item.magic_remaster:magic_book_advanced=Advanced magic book
+item.magic_remaster:magic_book_fire=Advanced Fire magic book
+item.magic_remaster:magic_book_ice=Advanced Ice magic book
+item.magic_remaster:magic_book_wind=Advanced Wind magic book
+item.magic_remaster:magic_book_rock=Advanced Rock magic book
+item.magic_remaster:magic_book_spark=Advanced Spark magic book
+item.magic_remaster:magic_book_water=Advanced Water magic book
+item.magic_remaster:magic_book_light=Advanced Light magic book
+item.magic_remaster:magic_book_dark=Advanced Dark magic book
+item.magic_remaster:magic_book_heal=Advanced Heal magic book
+item.magic_remaster:magic_book_gravity=Advanced Gravity magic book
+item.magic_remaster:magic_book_sound=Advanced Sound magic book
+item.magic_remaster:magic_book_summon=Advanced Summon magic book
+item.magic_remaster:magic_book_dimension=Advanced Dimension magic book
+item.magic_remaster:magic_book_top=Superlative magic book
+item.magic_remaster:mana_potion_i=Mana Potion
+item.magic_remaster:mana_potion_ii=Mana Potion II
+item.magic_remaster:mana_potion_iii=Mana Potion III
+item.magic_remaster:magic_save_book=Magic save book
+item.magic_remaster:copper_nugget=Copper nugget
+
+magic_remaster:magic_book=Magic book
+
+magic_spawntp_undefined=Spawnpoint was not found.
+magic_spawntp_success=Teleport to spawnpoint.
+magic_spawntp_failed=Teleport was failed.
+magic_save_toobig=The magic is too strong to save!
+magic_save_toolong=It exceed the capacity of save book!
+magic_save_notsupport_1=Mana don't seem to be gathering properly...
+magic_save_notsupport_2=Oops! It's too long to concentrate!
+
+entity:magic_remaster:magic_circle=Magic circle
+entity:magic_remaster:magic_circle_large=Large magic circle
+entity:magic_remaster:magic_circle_small=Small magic circle
+entity:magic_remaster:magic_circle_verticle=Verticle magic circle
+entity:magic_remaster:magic_circle_verticle_large=Verticle large magic circle
+entity:magic_remaster:magic_circle_verticle_small=Verticle small magic circle
+
+item.magic_remaster:magic_book_basic=Magic book
+item.magic_remaster:magic_wand_basic=Magic wand
+item.magic_remaster:magic_crystal=Magic crystal
+
+tile.magic_remaster:raw_magic_crystal.name=Raw magic crystal
+
+magic_book_basic.interact=Chant
+magic_wand_basic.interact=Chant
