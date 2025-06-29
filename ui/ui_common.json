@@ -16,21 +16,6 @@
             }
         ]
     },
-    "magic_grid_overlay_1": {
-        "type": "panel",
-        "ignored": false,
-        "controls": [
-            {
-                "magic_area": {
-                    "type": "image",
-                    "size": [ 16 , 16 ],
-                    "offset": [ 0, 0 ],
-                    "alpha": 1,
-                    "texture": "textures/magic/ingot_image"
-                }
-            }
-        ]
-    },
 
     "inventory_panel": {
         "type": "panel",
@@ -70,24 +55,7 @@
                         }
                     }]
                 }
-            },
-            {
-            "inventory_grid_1": {
-                "type": "grid",
-                "size": [ 18, 18 ],
-                "anchor_from": "bottom_middle",
-                "anchor_to": "bottom_middle",
-                "offset": [ -72, -62 ],
-                "grid_dimensions": [ 1, 1 ],
-                "collection_name": "inventory_items",
-                "controls": [{
-                    "magic_grid_1@common.container_item": {
-                        "grid_position": [1,0],
-                        "$item_collection_name": "inventory_items",
-                        "$cell_overlay_ref": "common.magic_grid_overlay_1"
-                    }
-                }]
-            }}
+            }
         ]
     }
 }
