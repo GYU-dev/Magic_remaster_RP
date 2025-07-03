@@ -20,6 +20,8 @@ item.magic_remaster:mana_potion_iii=魔力回復薬III
 item.magic_remaster:magic_save_book=魔法保存書
 item.magic_remaster:copper_nugget=銅塊
 
+item.magic_remaster:magic_powder=魔法粉
+
 magic_remaster:magic_book=魔導書
 
 magic_spawntp_undefined=有効なスポーン地点が見つかりませんでした。
@@ -42,6 +44,8 @@ item.magic_remaster:magic_wand_basic=杖
 item.magic_remaster:magic_crystal=魔晶
 
 tile.magic_remaster:raw_magic_crystal.name=魔晶塊
+tile.magic_remaster:magical_crafting_table.name=魔法テーブル
+magic_remaster:magical_crafting_table_powder=下級魔法テーブル
 
 magic_book_basic.interact=詠唱する
 magic_wand_basic.interact=詠唱する

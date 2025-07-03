@@ -68,6 +68,9 @@
         },
         "magic_crystal": {
             "textures": "textures/magic/magic_crystal"
+        },
+        "magic_powder": {
+            "textures": "textures/magic/magic_powder"
         }
 	},
 	"resource_pack_name": "magic_remaster_resource",
