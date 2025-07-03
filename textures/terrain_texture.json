@@ -9,6 +9,9 @@
 		},
 		"raw_magic_crystal_unstable": {
 			"textures": "textures/magic/raw_magic_crystal_unstable"
+		},
+		"magical_crafting_table_none": {
+			"textures": "textures/magic/magical_crafting_table/demo"
 		}
 	}
 }
